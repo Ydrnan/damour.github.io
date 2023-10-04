@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yann Damour</title><link>https://ydrnan.github.io/damour.github.io/</link><atom:link href="https://ydrnan.github.io/damour.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Yann Damour</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://ydrnan.github.io/damour.github.io/media/icon_hud170ec0a69e6b41aab74d07dbe9d5c09_67359_512x512_fill_lanczos_center_3.png</url><title>Yann Damour</title><link>https://ydrnan.github.io/damour.github.io/</link></image><item><title>Quantum Chemistry Code in Rust</title><link>https://ydrnan.github.io/damour.github.io/project/rust_code/</link><pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate><guid>https://ydrnan.github.io/damour.github.io/project/rust_code/</guid><description>&lt;p>I&amp;rsquo;m currently writing a quantum chemistry code in Rust on my free time. For the moment it has working RHF, ROHF, RHF/MP2, ROHF/MP2. The implementation of RHF and ROHF/CCSD is in progress&amp;hellip;
+As soon as the interface with &lt;a href="https://github.com/QuantumPackage/qp2" target="_blank" rel="noopener">Quantum Package&lt;/a> will be finished (and clean) I will push it on a Github repository.&lt;/p>
+&lt;p>Stay tuned !&lt;/p></description></item><item><title>Quantum Package</title><link>https://ydrnan.github.io/damour.github.io/post/qp2/</link><pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate><guid>https://ydrnan.github.io/damour.github.io/post/qp2/</guid><description>&lt;p>In the context of my PhD, I&amp;rsquo;m using and programming in &lt;a href="https://github.com/QuantumPackage/qp2" target="_blank" rel="noopener">Quantum Package&lt;/a>,
+a Fortran programming environnement for wave function methods. You can
+find its documentation &lt;a href="https://quantum-package.readthedocs.io/en/master/" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;p>Inside there are a significant amount of programs:&lt;/p>
+&lt;ul>
+&lt;li>SCF (RHF/ROHF)&lt;/li>
+&lt;li>CIS&lt;/li>
+&lt;li>CISD&lt;/li>
+&lt;li>CIPSI (Configuration Interaction using a Perturbative Selection made Iteratively)&lt;/li>
+&lt;li>CCSD (RHF/ROHF)&lt;/li>
+&lt;li>CCSD(T) (RHF/ROHF)&lt;/li>
+&lt;li>Transcorrelated methods&lt;/li>
+&lt;li>Orbital localization (Foster-Boys/Pipek-Mezey)&lt;/li>
+&lt;li>Orbital optimization for CI wave functions&lt;/li>
+&lt;li>&amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;p>Don&amp;rsquo;t hesitate to send me a message if you have any question about it.&lt;/p></description></item><item><title>Contact</title><link>https://ydrnan.github.io/damour.github.io/contact/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://ydrnan.github.io/damour.github.io/contact/</guid><description/></item><item><title/><link>https://ydrnan.github.io/damour.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ydrnan.github.io/damour.github.io/admin/config.yml</guid><description/></item><item><title>Archery</title><link>https://ydrnan.github.io/damour.github.io/archery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ydrnan.github.io/damour.github.io/archery/</guid><description>&lt;p>Hello!
+I&amp;rsquo;m Yann Damour, a french compound shooter at &lt;a href="https://www.facebook.com/archersderennes/" target="_blank" rel="noopener">Compagnie d&amp;rsquo;Archers de Rennes&lt;/a>.
+I&amp;rsquo;m back to archery after stopping from 2020 to 2023
+for health reasons.
+Don&amp;rsquo;t hesitate to follow me on Instagram for more content &lt;a href="https://www.instagram.com/dr_yann_/" target="_blank" rel="noopener">&lt;i class="fa-brands fa-instagram">&lt;/i>&lt;/a>.&lt;/p>
+&lt;p>For the current season I&amp;rsquo;m planning to go to:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.kingsofarchery.com/" target="_blank" rel="noopener">Kings of Archery&lt;/a>, Netherlands&lt;/li>
+&lt;li>&lt;a href="https://www.asbondy-archery.com/index.php/presentation" target="_blank" rel="noopener">Bondy Archery Tournament&lt;/a>, France&lt;/li>
+&lt;li>&lt;a href="https://www.nimesarchery.com/" target="_blank" rel="noopener">Nimes Archery Tournament&lt;/a>, France&lt;/li>
+&lt;/ul>
+&lt;p>See you there!&lt;/p>
+&lt;h1 id="titles">Titles&lt;/h1>
+&lt;ul>
+&lt;li>French Academic Champion 2020&lt;/li>
+&lt;li>French Academic Champion 2019&lt;/li>
+&lt;/ul>
+&lt;h1 id="national-records">National Records&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Type&lt;/th>
+&lt;th>Discipline&lt;/th>
+&lt;th>Score&lt;/th>
+&lt;th>Date&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>French Academic Record&lt;/td>
+&lt;td>WA Indoor&lt;/td>
+&lt;td>591/600&lt;/td>
+&lt;td>February 2020&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Best French Performance by Team&lt;/td>
+&lt;td>Indoor (25m)&lt;/td>
+&lt;td>1766/1800&lt;/td>
+&lt;td>December 2019&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="personal-bests">Personal Bests&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Discipline&lt;/th>
+&lt;th>Score&lt;/th>
+&lt;th>Date&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>WA Indoor (18m)&lt;/td>
+&lt;td>597/600&lt;/td>
+&lt;td>December 2019&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>WA Outoor (50m)&lt;/td>
+&lt;td>698/720&lt;/td>
+&lt;td>April 2019&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="national-rankings">National Rankings&lt;/h1>
+&lt;h2 id="indoor">Indoor&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Year&lt;/th>
+&lt;th>Ranking&lt;/th>
+&lt;th>Best score&lt;/th>
+&lt;th>Average score&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2020&lt;/td>
+&lt;td>7&lt;/td>
+&lt;td>597/600&lt;/td>
+&lt;td>593/600&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2019&lt;/td>
+&lt;td>17&lt;/td>
+&lt;td>588/600&lt;/td>
+&lt;td>587/600&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="outdoor">Outdoor&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Year&lt;/th>
+&lt;th>Ranking&lt;/th>
+&lt;th>Best score&lt;/th>
+&lt;th>Average score&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2023&lt;/td>
+&lt;td>45&lt;/td>
+&lt;td>693/720&lt;/td>
+&lt;td>686/720&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2019&lt;/td>
+&lt;td>20&lt;/td>
+&lt;td>698/720&lt;/td>
+&lt;td>695/720&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="international-competitions">International Competitions&lt;/h1>
+&lt;h2 id="indoor-1">Indoor&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Year&lt;/th>
+&lt;th>Event&lt;/th>
+&lt;th>Individual ranking&lt;/th>
+&lt;th>Team ranking&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2020&lt;/td>
+&lt;td>Nimes Archery Tournament, France&lt;/td>
+&lt;td>33&lt;/td>
+&lt;td>/&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="outdoor-1">Outdoor&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Year&lt;/th>
+&lt;th>Event&lt;/th>
+&lt;th>Individual ranking&lt;/th>
+&lt;th>Team ranking&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2019&lt;/td>
+&lt;td>30th Summer Universiade, Napoli&lt;/td>
+&lt;td>33&lt;/td>
+&lt;td>5&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="national-championships">National Championships&lt;/h1>
+&lt;h2 id="indoor-2">Indoor&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Year&lt;/th>
+&lt;th>Type&lt;/th>
+&lt;th>Ranking&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2020&lt;/td>
+&lt;td>FFTA&lt;/td>
+&lt;td>5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Academic&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2019&lt;/td>
+&lt;td>FFTA&lt;/td>
+&lt;td>17&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td>Academic&lt;/td>
+&lt;td>1&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="outdoor-2">Outdoor&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Year&lt;/th>
+&lt;th>Type&lt;/th>
+&lt;th>Ranking&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2020&lt;/td>
+&lt;td>FFTA&lt;/td>
+&lt;td>4&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Here&amp;rsquo;s a YouTube replay of my bronze medal match against the former World leader &lt;a href="https://www.pjdeloche.com/" target="_blank" rel="noopener">Pierre-Julien Deloche&lt;/a>&amp;hellip;
+(I&amp;rsquo;m currently preparing my revenge)
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/0vUJMm6Ssmc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/p>
+&lt;h1 id="sponsors">Sponsors&lt;/h1>
+&lt;p>I have not recover the required level to ask for sponsorships, nevertheless
+I wanted to thankœ my previous sponsors for their help between 2019 and 2020:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.wraps-adesign.fr/" target="_blank" rel="noopener">Adesign&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.arc-systeme.fr/" target="_blank" rel="noopener">Arc Système&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.bohning.com/fr/" target="_blank" rel="noopener">Bohning&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Publications</title><link>https://ydrnan.github.io/damour.github.io/publication/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ydrnan.github.io/damour.github.io/publication/</guid><description>&lt;h3 id="2023">2023&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;ol start="5">
+&lt;li>&lt;a href="https://doi.org/10.1021/acs.jctc.2c01111" target="_blank" rel="noopener">Ground- and excited-state dipole moments and oscillator strengths of full configuration interaction quality&lt;/a>,&lt;br>&lt;/a>
+Y. Damour, R. Quintero-Monsebaiz, M. Caffarel, D. Jacquemin, F. Kossoski, A. Scemama, and P. F. Loos.&lt;br>
+&lt;I> J. Chem. Theory Comput.&lt;/I>&lt;B> 19&lt;/B>, 221 (2023). &lt;br>&lt;br>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="2022">2022&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;ol start="4">
+&lt;li>&lt;a href="https://doi.org/10.1021/acs.jpclett.2c00730" target="_blank" rel="noopener">Hierarchy configuration interaction: combining seniority number and excitation degree&lt;/a>,&lt;br>&lt;/a>
+F. Kossoski, Y. Damour, and P. F. Loos.&lt;br>
+&lt;I>J. Phys. Chem. Lett. (Open Access)&lt;/I>&lt;B> 13&lt;/B>, 4342 (2022). &lt;br>&lt;br>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="2021">2021&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;ol start="3">
+&lt;li>&lt;a href="https://doi.org/10.1063/5.0065314" target="_blank" rel="noopener">Accurate full configuration interaction correlation energy estimates for five- and six-membered rings&lt;/a>,&lt;br>&lt;/a>
+Y. Damour, M. Veril, F. Kossoski, M. Caffarel, D. Jacquemin, A. Scemama, and P. F. Loos.&lt;br>
+&lt;I> J. Chem. Phys.&lt;/I>&lt;B> 155&lt;/B>, 134104 (2021). &lt;br>&lt;br>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="2020">2020&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;ol start="2">
+&lt;li>&lt;a href="https://doi.org/10.1063/5.0027617" target="_blank" rel="noopener">The performance of CIPSI on the ground state electronic energy of benzene&lt;/a>,&lt;br>&lt;/a>
+P. F. Loos, Y. Damour, and A. Scemama.&lt;br>
+&lt;I> J. Chem. Phys.&lt;/I>&lt;B> 153&lt;/B>, 176101 (2020). &lt;br>&lt;br>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol>
+&lt;li>&lt;a href="https://doi.org/10.1002/celc.202000765" target="_blank" rel="noopener">SnCN2: A Carbodiimide with an Innovative Approach for Energy Storage Systems and Phosphors in Modern LED Technology&lt;/a> &lt;br>&lt;/a>
+C. Braun, L. Mereacre, W. Hua, T. Stürzer, I. Ponomarev, P. Kroll, A. Slabon, Z. Chen, Y. Damour, X. Rocquefelte, J. F. Halet, S. Indris.&lt;br>
+&lt;I> ChemElectroChem&lt;/I>&lt;B> 7&lt;/B>, 22 (2020). &lt;br>&lt;br>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul></description></item><item><title>Talks</title><link>https://ydrnan.github.io/damour.github.io/talk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ydrnan.github.io/damour.github.io/talk/</guid><description>&lt;h2 id="oral-communications">Oral communications&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;ol>
+&lt;li>&lt;a href="slides/1.pdf">A selected configuration interaction study of ground- and excited-state
+electric dipole moments&lt;/a>
+&lt;/a>&lt;br> &lt;a href="https://jtms2022.sciencesconf.org/" target="_blank" rel="noopener">JTMS 2022&lt;/a>, Rennes, France (October 2022).&lt;br>&lt;br>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="posters">Posters&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;ol start="3">
+&lt;li>&lt;a href="posters/3.pdf">Targeting excited states with state-specific
+coupled-cluster methods&lt;/a>
+&lt;/a>&lt;br> &lt;a href="https://pfloos.github.io/PTEROSOR_midterm_workshop/" target="_blank" rel="noopener">Workshop on excited-state methods&lt;/a>, Toulouse, France (April 2023).&lt;br>&lt;br>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="2">
+&lt;li>&lt;a href="posters/2.pdf">A selected configuration interaction study
+of ground- and excited-state dipole
+moments and oscillator strengths&lt;/a>
+&lt;/a>&lt;br> &lt;a href="https://rctf2022.sciencesconf.org/" target="_blank" rel="noopener">RCTF 2022&lt;/a>, Bordeaux, France (June 2022).&lt;br>&lt;br>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol>
+&lt;li>&lt;a href="posters/1.pdf">Orbital optimization in selected
+configuration interaction&lt;/a>
+&lt;/a>&lt;br> &lt;a href="https://lcpq.github.io/gdr_nbody_2021/" target="_blank" rel="noopener">GDR Nbody Meeting 2022&lt;/a>, Toulouse, France (January 2022).&lt;br>&lt;br>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
